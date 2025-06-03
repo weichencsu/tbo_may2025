@@ -1,0 +1,53 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    rowan.melrose@bisalloy.com.au:
+      email: rowan.melrose@bisalloy.com.au
+      name: Rowan Melrose
+      password: $2b$12$3bDi1T.MB/q8y5TIhVbijupsEuO9QWFt3DsgB9xxZLOHvyPwDYwu2
+    wei.chen02@xjtlu.edu.cn:
+      email: wei.chen02@xjtlu.edu.cn
+      name: Wei Chen
+      password: $2b$12$AlADSwlyMzXoY68A744ILeSTQjrdbP.pq4q0dvGNecg92HjynFfxO
+    charles.curry@bisalloy.com.au:
+      email: charles.curry@bisalloy.com.au
+      name: Charles Curry
+      password: $2b$12$iXrS1tN3Kx47KurWy7Mh2uE0oHyxxYhfj.Ht/yJ6lgU2IBSLDTz6q
+    dxx052@163.com:
+      email: dxx052@163.com
+      name: Xiangxian Deng
+      password: $2b$12$h/gNA02sQmXcSn1H7lcYJeMT/eislNHTvbjC/z18ePwNdK/YY77Da
+    zakaria@amman.co.id:
+      email: zakaria@amman.co.id
+      name: Zakaria
+      password: $2b$12$nD34f.oA3zitol9Cjs0X0.FL4hDOTFIbNnHubEtzx3/HJoM4iFv0K
+    luke.gurieff@amman.co.id:
+      email: luke.gurieff@amman.co.id
+      name: Luke Gurieff
+      password: $2b$12$FXfu.PL768ocmfu/B8bMx.fsNuTLJ30/gNtBMXj3ABLTqWaC3mf/y
+    dinar.aryasena@amman.co.id:
+      email: dinar.aryasena@amman.co.id
+      name: Dinar Aryasena
+      password: $2b$12$lADvqBY9jp/P4MbsRfjdDu.UVMcPtSs7xQBCmAD8jA27eNs3rV3iW
+    mohammad.ramadhani@amman.co.id:
+      email: mohammad.ramadhani@amman.co.id
+      name: Mohammad Ramadhani
+      password: $2b$12$hfslXR42eTeaCcofgUaNxuDf5K.lhW3q47pVOMVVr7KasRNYXDfki
+    david.axsentieff@amman.co.id:
+      email: david.axsentieff@amman.co.id
+      name: David Axsentieff
+      password: $2b$12$xD44O3GAduHr6SA3BToXeOYTJp38xxQjB86HS2TrHTAbwO1ecafii
+    qisar.handi@amman.co.id:
+      email: qisar.handi@amman.co.id
+      name: Qisar Handi
+      password: $2b$12$G3VCT7y1NuW0zpcyh9aJzulnPEdF1xpv1g99ikSfj.MxOkJUEkOMG
+    dewanto.sasmito@amman.co.id:
+      email: dewanto.sasmito@amman.co.id
+      name: Dewanto Sasmito
+      password: $2b$12$IgCFJ9VEVAo1V896Dyh6aOxtIGJGfi8AWhEv96gOKZtlDyxnvv4kG              
+preauthorized:
+  emails:
+  - wei.chen@bisalloy.com.au
