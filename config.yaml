@@ -20,34 +20,14 @@ credentials:
       email: dxx052@163.com
       name: Xiangxian Deng
       password: $2b$12$h/gNA02sQmXcSn1H7lcYJeMT/eislNHTvbjC/z18ePwNdK/YY77Da
-    zakaria@amman.co.id:
-      email: zakaria@amman.co.id
-      name: Zakaria
-      password: $2b$12$nD34f.oA3zitol9Cjs0X0.FL4hDOTFIbNnHubEtzx3/HJoM4iFv0K
-    luke.gurieff@amman.co.id:
-      email: luke.gurieff@amman.co.id
-      name: Luke Gurieff
-      password: $2b$12$FXfu.PL768ocmfu/B8bMx.fsNuTLJ30/gNtBMXj3ABLTqWaC3mf/y
-    dinar.aryasena@amman.co.id:
-      email: dinar.aryasena@amman.co.id
-      name: Dinar Aryasena
-      password: $2b$12$lADvqBY9jp/P4MbsRfjdDu.UVMcPtSs7xQBCmAD8jA27eNs3rV3iW
-    mohammad.ramadhani@amman.co.id:
-      email: mohammad.ramadhani@amman.co.id
-      name: Mohammad Ramadhani
-      password: $2b$12$hfslXR42eTeaCcofgUaNxuDf5K.lhW3q47pVOMVVr7KasRNYXDfki
-    david.axsentieff@amman.co.id:
-      email: david.axsentieff@amman.co.id
-      name: David Axsentieff
-      password: $2b$12$xD44O3GAduHr6SA3BToXeOYTJp38xxQjB86HS2TrHTAbwO1ecafii
-    qisar.handi@amman.co.id:
-      email: qisar.handi@amman.co.id
-      name: Qisar Handi
-      password: $2b$12$G3VCT7y1NuW0zpcyh9aJzulnPEdF1xpv1g99ikSfj.MxOkJUEkOMG
-    dewanto.sasmito@amman.co.id:
-      email: dewanto.sasmito@amman.co.id
-      name: Dewanto Sasmito
-      password: $2b$12$IgCFJ9VEVAo1V896Dyh6aOxtIGJGfi8AWhEv96gOKZtlDyxnvv4kG              
+    bruce.rattray@growthsteel.com:
+      email: bruce.rattray@growthsteel.com
+      name: Bruce Rattray
+      password: $2b$12$66SnxkwJrQsuIqyiM6GyvecPSmtUx7YoIPvhjC87PK1XNIBCFH8Ye
+    c.swanepoel@growthsteel.com:
+      email: c.swanepoel@growthsteel.com
+      name: Craig Swanepoel
+      password: $2b$12$tNhEMLiy6O5NCmrVOTc83OUpE2f5NgyEWjvfqqugr/QoCAYvLb6qe          
 preauthorized:
   emails:
   - wei.chen@bisalloy.com.au
