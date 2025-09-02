@@ -76,9 +76,11 @@ def plot_sensor_data(file_path):
             mode='lines+markers',
             name=sheet_name
         ))
-     # Add horizontal lines
-    fig.add_hline(y=150, line_dash="solid", line_width=3, line_color="red", annotation_text="Lifter Reline Limit 150mm")
-    fig.add_hline(y=50, line_dash="solid", line_width=3, line_color="red", annotation_text="Plate Reline Limit 50mm")
+    # Add horizontal lines
+    fig.add_hline(y=150, line_dash="dash", line_width=2, line_color="orange", annotation_text="Lifter Reline Limit 150mm")
+    fig.add_hline(y=120, line_dash="solid", line_width=3, line_color="red", annotation_text="Lifter Failure Limit 120mm")
+    fig.add_hline(y=40, line_dash="dash", line_width=2, line_color="orange", annotation_text="Plate Reline Limit 40mm")
+    fig.add_hline(y=30, line_dash="solid", line_width=3, line_color="red", annotation_text="Plate Failure Limit 30mm")
         
     # Update axis format
     fig.update_yaxes(title_text="Sensor Length - mm")
@@ -292,6 +294,7 @@ def app():
     #)
     ############################## Section Display Dataframe ################################
     st.markdown("###")
+
 
 
 
