@@ -27,7 +27,11 @@ credentials:
     c.swanepoel@growthsteel.com:
       email: c.swanepoel@growthsteel.com
       name: Craig Swanepoel
-      password: $2b$12$tNhEMLiy6O5NCmrVOTc83OUpE2f5NgyEWjvfqqugr/QoCAYvLb6qe          
+      password: $2b$12$tNhEMLiy6O5NCmrVOTc83OUpE2f5NgyEWjvfqqugr/QoCAYvLb6qe
+    tfield@nsrltd.com:
+      email: tfield@nsrltd.com
+      name: Toby Field
+      password: $2b$12$PpGaaSRn0KZ.45UPKgqqIeez8L1xIePguhYH8KtXie1L3vfdVz5oe          
 preauthorized:
   emails:
   - wei.chen@bisalloy.com.au
