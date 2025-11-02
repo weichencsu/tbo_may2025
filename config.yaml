@@ -31,7 +31,12 @@ credentials:
     tfield@nsrltd.com:
       email: tfield@nsrltd.com
       name: Toby Field
-      password: $2b$12$PpGaaSRn0KZ.45UPKgqqIeez8L1xIePguhYH8KtXie1L3vfdVz5oe          
+      password: $2b$12$PpGaaSRn0KZ.45UPKgqqIeez8L1xIePguhYH8KtXie1L3vfdVz5oe
+    smuthiah@nsrltd.com:
+      email: smuthiah@nsrltd.com
+      name: Shays Muthiah
+      password: $2b$12$NRY53770tLAXHGik1D/2Gue3BpheVlhv5S7P0p0cBmmw8Ja7XW/vm
 preauthorized:
   emails:
   - wei.chen@bisalloy.com.au
+
